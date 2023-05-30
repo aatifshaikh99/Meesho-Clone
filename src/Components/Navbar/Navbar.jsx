@@ -220,9 +220,7 @@ export default function Navbar() {
           </a>
           <p className="line">|</p>
           <a
-            href="https://meesho-supplier-harsh.netlify.app"
-            target="_blank"
-            rel="noreferrer"
+            href="/"
           >
             <p>Become a Supplier</p>
           </a>
